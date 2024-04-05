@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Jain - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Jain is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="resturaltresturent-project.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -33,17 +33,6 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Grilli** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
 
 ### Contact
 
